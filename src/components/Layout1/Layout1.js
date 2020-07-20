@@ -21,7 +21,7 @@ import {rtmcliname} from './../Logintabcredentials/Logintabcredentials.js';
 class Layout1 extends Component{
 
     componentDidMount(){
-       {Func()};
+       /*{Func()};*/
        {weddfeedjoin()};
     }
 

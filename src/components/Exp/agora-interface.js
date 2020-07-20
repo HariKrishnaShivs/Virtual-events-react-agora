@@ -70,7 +70,7 @@ client.on('stream-added', function (evt) {
   }
 });
 
-var rS;
+var rS,val=0;
 
 client.on('stream-subscribed', function (evt) {
   var remoteStream = evt.stream;
@@ -78,6 +78,7 @@ client.on('stream-subscribed', function (evt) {
   var remoteId = remoteStream.getId();
   remoteStreams[remoteId] = remoteStream;
   console.log("Subscribe remote stream successfully: " + remoteId);
+  val=1;
   if( $('#full-screen-video').is(':empty') ) { 
     mainStreamId = remoteId;
     remoteStream.play('full-screen-video');
@@ -88,14 +89,20 @@ client.on('stream-subscribed', function (evt) {
 });
 
 export function weddfeedjoin(){
-  
+
+  if(val==1)
+  {
   rS.play('full-screen-video');
   console.log("entered vid2feed");
+  }
 }
 
 export function weddfeedexit(){
+  if(val==1)
+  {
   rS.stop();
   console.log("vidfeed stopped");
+  }
 }
 
 

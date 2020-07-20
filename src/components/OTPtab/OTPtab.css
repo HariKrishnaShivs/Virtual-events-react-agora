@@ -1,0 +1,59 @@
+.ltdsyle{
+    width:100%;
+}
+.ltcstyle{
+    margin-top:10px;
+}
+
+.otpbtn{
+    margin-top:40px;
+}
+
+.otpinpstl{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.btnlogin{
+    width:100%;
+    margin-bottom:20px;
+    background-color: #ED1164;
+    color:white;
+    border-radius: 25px;
+    font-family:'Montserrat';
+    font-weight:600;
+    font-size:14px;
+    padding-top:5px;
+    padding-bottom:5px;
+    border:hidden;
+}
+
+.btnlogin:focus{
+    outline:none;
+}
+
+.txt{
+    margin-top: 40px;
+    color:#000000;
+    font-family:'Montserrat';
+    font-weight:600;
+    font-size:18px;
+    margin-left:18px;
+}
+
+.txt1{
+    color:#000000;
+    font-family:'Montserrat';
+    font-weight:600;
+    font-size:18px;
+    margin-left:18px;
+}
+
+.txtboxinp{
+   margin-left:16px;
+   color:red;
+   font-size: 14px;
+   font-family:'Montserrat';
+   font-weight:600;
+}
+

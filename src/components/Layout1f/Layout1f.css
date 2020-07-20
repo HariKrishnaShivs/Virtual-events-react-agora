@@ -1,0 +1,74 @@
+/*.l4bgimg{
+    background-image: url('https://www.specialevents.com/sites/specialevents.com/files/styles/article_featured_retina/public/Indian_Wedding_Hands_2019_0.jpg?itok=57x_HpKa');
+    min-height: 100vh;
+    background-size: cover;
+}*/
+
+.fullimg1f{
+    width:100%;
+    height:100vh;
+}
+
+.l4bdtxt{
+    position: absolute;
+    top:20px;
+    left:20px;
+    padding-left:15px;
+    padding-right: 20px;
+    font-family: 'Montserrat';
+    font-size: 12px;
+    color:white;
+    font-weight: 600;
+    background-color: #FB3571;
+    border-radius: 10px;
+}
+
+.l1fbtnstl{
+    position: fixed;
+    bottom:4vh;
+    right:2%;
+    border: hidden;
+    border-radius: 100%;
+}
+
+.l1fbtnstl:focus{
+    outline:none;
+}
+
+.identbtn{
+    border:hidden;
+}
+
+.identbtn:focus{
+    outline:none;
+}
+
+
+.bnimgsl{
+    padding-left:5px;
+    padding-right: 5px;
+    padding-top:10px;
+    padding-bottom:10px;
+    color:violet;
+}
+
+.rstl{
+    margin-top:20px;
+}
+
+
+.btnimg2{
+    width:100%;
+    height:50px;
+    border-radius: 10px;
+    border:hidden;
+}
+
+.psl{
+    font-size: 12px;
+    font-weight: 600;
+    color:#7624D3;
+    margin-top: 3px;
+}
+
+

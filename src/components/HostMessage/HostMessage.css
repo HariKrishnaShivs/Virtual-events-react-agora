@@ -1,0 +1,110 @@
+.host-vd{
+    height:25vh;
+}
+
+.hosttxt{
+    position: absolute;
+    left:8%;
+    top:6%;
+    color:white;
+    background-color: #7624D3;
+    font-family:'Montserrat';
+    font-size: 12px;
+    border-radius: 10px;
+    padding-top:2px;
+    padding-bottom:2px;
+    padding-left :10px;
+    padding-right: 10px;
+    font-weight: 600;
+}
+
+.hostname{
+    position: absolute;
+    left:8%;
+    bottom:5%;
+    color:white;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    border-radius: 10px;
+    padding-left:5px;
+    padding-right: 5px;
+    font-weight: 500;
+}
+
+.messagebar{
+    height:55vh;
+    background-color: white;
+    margin-left: 15px;
+    margin-right:10px;
+    border-radius: 20px;
+    padding-top: 10px;
+}
+
+
+.vsi-style{
+    width:100%;
+    height:100%;
+    border-radius: 10px;
+}
+
+.hmbtncht{
+    width:100%;
+    color: #848080;
+    font-size: 14px;
+    text-align: left;
+    border-radius: 20px;
+    background-color: white;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 10px;
+    max-height: 50px;
+    border: hidden;
+    margin-top:5px;
+}
+
+.hmbtncht:focus{
+  background-color: #A75BFF;
+  color:#3D0083;
+  outline: none;
+}
+
+.hmbtnptc{
+    width:100%;
+    color: #848080;
+    font-size: 14px;
+    text-align: left;
+    border-radius: 20px;
+    background-color: white;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 10px;
+    max-height: 50px;
+    border: hidden;
+    margin-top:5px;
+}
+
+
+
+.hmbtnptc:focus{
+  background-color: #A75BFF ;
+  color:#3D0083;
+  outline:none;
+}
+
+.buttons{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.btnimg{
+    width:20px;
+    float:right;
+     height:20px;
+     position:absolute;
+     top:35%;
+     left:75%;
+}
+
+.btnimgptcs{
+    color:black;
+}

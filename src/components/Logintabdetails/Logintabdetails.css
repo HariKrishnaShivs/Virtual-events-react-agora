@@ -1,0 +1,40 @@
+.ltd-bg{
+    background-color: #FFF1F1;
+    margin-top:20px;
+    border-radius: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.eventtxtltd{
+    font-size: 28px;
+    color:#ED1164;
+    line-height: 40px;
+    font-family:'Montserrat';
+    font-weight: 700;
+    width:30px;
+}
+
+.eventtimeltd{
+    font-size:18px;
+    color:#ED1164;
+    padding-top:5px;
+    font-family:'Montserrat';
+    font-weight: 600;
+}
+
+.eventparttextltd{
+    font-size:15px;
+    padding-top:10px;
+    color:#ED1164;
+    font-family:'Montserrat';
+    font-weight: 700;
+}
+
+.eventpartnamesltd{
+    font-size:12px;
+    padding-top:10px;
+    color:#ED1164;
+    font-family:'Montserrat';
+    font-weight: 500;
+}

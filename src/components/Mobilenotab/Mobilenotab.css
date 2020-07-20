@@ -1,0 +1,55 @@
+.ltdsyle{
+    width:100%;
+}
+.ltcstyle{
+    margin-top:10px;
+}
+
+.otpbtn{
+    margin-top:20px;
+}
+
+.getotpbtn{
+    width:100%;
+    margin-bottom:20px;
+    background-color: #ED1164;
+    color:white;
+    border-radius: 25px;
+    border: hidden;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-family: 'Montserrat';
+    font-weight:600;
+    font-size:14px;
+}
+
+.getotpbtn:focus{
+    outline:none;
+}
+
+.txtstl{
+    margin-left:18px;
+    font-family:'Montserrat';
+    color:#000000;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.mbtxtbox{
+    margin-left:18px;
+    border-bottom:1px #ACACAC solid;
+    font-weight: 400;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    padding-bottom: 5px;
+    color: #9E9E9E;
+    width:100%;
+}
+
+.errtxt{
+    font-size:14px;
+    color:red;
+    font-family:'Montserrat';
+    font-weight:600;
+    margin-left: 18px;
+}

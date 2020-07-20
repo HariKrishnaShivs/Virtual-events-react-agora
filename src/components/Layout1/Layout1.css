@@ -1,0 +1,205 @@
+.l1{
+    background-color:#ECECEC;
+    min-height:100vh;
+}
+
+.rstl{
+    margin-top:20px;
+}
+
+.identbtn{
+    border:hidden;
+}
+
+.identbtn:focus{
+    outline:none;
+}
+
+
+.btnimg2{
+    width:100%;
+    height:50px;
+    border-radius: 10px;
+    border:hidden;
+    background-color: white;
+}
+
+.psl{
+    font-size: 12px;
+    font-weight: 600;
+    color:#7624D3;
+    margin-top: 3px;
+}
+
+
+.stl{
+    background-color: white;
+    height:10%;
+}
+.headrl1{
+    background-color:#ECECEC;
+    min-height: 10vh;
+    padding-top: 3vh;
+    padding-left: 20px;
+}
+
+.bnsl1{
+    float:right;
+    background-color:white;
+    border-radius: 100%;
+    border-style: hidden;
+    margin-right: 15px;
+}
+
+.bnsl1:focus{
+    outline: none;
+}
+
+.bnimgsl1{
+    padding-left:5px;
+    padding-right: 5px;
+    padding-top:10px;
+    padding-bottom:10px;
+    color:#4A4A4A;
+}
+
+.logo-txtl1{
+    color:#ED1164;
+    text-align: left;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.logo-txtl1 img{
+    width:160px;
+    padding-right: 5px;
+}
+
+.wed-txtl1{
+    color:#ED1164;
+    text-align: right;
+    font-family:'Montserrat';
+    font-size: 18px;
+    font-weight: 600;
+    
+}
+
+.time-txtl1{
+    color:#4E4E4E;
+    text-align: right;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+
+.host-txtl1{
+    color:#5E5E5E;
+    text-align: right;
+    font-family:'Montserrat';
+    font-size: 14px;
+    font-weight: 600;
+    margin-right:20px;
+}
+.vd-feed{
+    margin-left:5px;
+    min-height:80vh;
+}
+
+.no-gutter> [class*='col-']{
+    padding-right:0px;
+    padding-left:0px;
+}
+
+.vsil1{
+    width: 100%;
+    height:80vh;
+    border-radius: 20px;
+}
+
+.footrl1{
+    margin-top:10px;
+}
+
+.streamtxtl1{
+     position: absolute;
+     top:2%;
+     left:0%;
+     color:white;
+     background-color: #FB3571;
+     font-family:'Montserrat';
+     font-size: 12px;
+     border-radius: 10px;
+     padding-top:2px;
+     padding-bottom:2px;
+     padding-left: 10px;
+     padding-right: 10px;
+     font-weight: 600;
+}
+
+.l1micbtn{
+    float:right;
+    border: hidden;
+    height:7vh;
+    width:50px;
+    height:50px;
+    border-radius: 100%;
+    background-color: white;
+}
+
+.l1micbtn:focus{
+    outline:none;
+}
+
+.l1vidbtn{
+    float:center;
+    border: hidden;
+    height:7vh;
+    width:50px;
+    height:50px;
+    border-radius: 100%;
+    background-color: white;
+}
+
+.l1vidbtn:focus{
+    outline:none;
+}
+
+.l1exbtn{
+    float:left;
+    border: hidden;
+    height:7vh;
+    width:50px;
+    height:50px;
+    border-radius: 100%;
+    background-color: white;
+}
+
+.l1exbtn:focus{
+    outline:none;
+}
+
+.l1micimg{
+   height:100%;
+}
+
+.l1vidimg{
+    height:100%;
+}
+
+.l1eximg{
+    height:100%;
+}
+
+.rt{
+    margin-right:15px;
+}
+
+
+/*Video Styling*/
+
+
+
+
+
+

@@ -2,8 +2,8 @@ Instructions to run this app:-
 
 In the main folder,run the below command:-
 
-
-  1)npm start
+  1)npm install
+  2)npm start
 
   Details:-
 

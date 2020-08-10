@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Virtual-events-react-agora/static/css/main.b8e9667b.chunk.css",
+    "main.js": "/Virtual-events-react-agora/static/js/main.776d7d9a.chunk.js",
+    "main.js.map": "/Virtual-events-react-agora/static/js/main.776d7d9a.chunk.js.map",
+    "runtime-main.js": "/Virtual-events-react-agora/static/js/runtime-main.08f9ecd6.js",
+    "runtime-main.js.map": "/Virtual-events-react-agora/static/js/runtime-main.08f9ecd6.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Virtual-events-react-agora/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.7d66bb14.chunk.js": "/Virtual-events-react-agora/static/js/2.7d66bb14.chunk.js",
+    "static/js/2.7d66bb14.chunk.js.map": "/Virtual-events-react-agora/static/js/2.7d66bb14.chunk.js.map",
+    "index.html": "/Virtual-events-react-agora/index.html",
+    "precache-manifest.f0820ca999539af2f070482ef880cb2c.js": "/Virtual-events-react-agora/precache-manifest.f0820ca999539af2f070482ef880cb2c.js",
+    "service-worker.js": "/Virtual-events-react-agora/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Virtual-events-react-agora/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b8e9667b.chunk.css.map": "/Virtual-events-react-agora/static/css/main.b8e9667b.chunk.css.map",
+    "static/js/2.7d66bb14.chunk.js.LICENSE.txt": "/Virtual-events-react-agora/static/js/2.7d66bb14.chunk.js.LICENSE.txt",
+    "static/media/Indian-wedding.jpeg": "/Virtual-events-react-agora/static/media/Indian-wedding.8f338a7d.jpeg",
+    "static/media/logo.svg": "/Virtual-events-react-agora/static/media/logo.ee7cd8ed.svg",
+    "static/media/messagelogo.png": "/Virtual-events-react-agora/static/media/messagelogo.efacd419.png",
+    "static/media/ptcpslogo.png": "/Virtual-events-react-agora/static/media/ptcpslogo.7bb02bef.png",
+    "static/media/vd-stream-img.webp": "/Virtual-events-react-agora/static/media/vd-stream-img.0a747d36.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08f9ecd6.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.7d66bb14.chunk.js",
+    "static/css/main.b8e9667b.chunk.css",
+    "static/js/main.776d7d9a.chunk.js"
+  ]
+}

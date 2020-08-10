@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22dfa2db29aec8411a2c7925b6ef4637",
+    "revision": "6a47f3cae9b51667896057029e266cb9",
     "url": "/Virtual-events-react-agora/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Virtual-events-react-agora/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "044746be0c99471db20d",
+    "revision": "4b3ec9a3e1813dd15d65",
     "url": "/Virtual-events-react-agora/static/css/main.b8e9667b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Virtual-events-react-agora/static/js/2.7d66bb14.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "044746be0c99471db20d",
-    "url": "/Virtual-events-react-agora/static/js/main.776d7d9a.chunk.js"
+    "revision": "4b3ec9a3e1813dd15d65",
+    "url": "/Virtual-events-react-agora/static/js/main.13373b00.chunk.js"
   },
   {
     "revision": "25d28d2bdb09eef274db",
